@@ -13,3 +13,9 @@
 [submodule "GGTickUnity"]
 	path = GGTickUnity
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGTickUnity.git
+[submodule "GGPoolBase"]
+	path = GGPoolBase
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGPoolBase.git
+[submodule "GGPoolUnity"]
+	path = GGPoolUnity
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGPoolUnity.git
