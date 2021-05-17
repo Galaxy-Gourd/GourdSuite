@@ -19,3 +19,6 @@
 [submodule "GGPoolUnity"]
 	path = GGPoolUnity
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGPoolUnity.git
+[submodule "GGDevice"]
+	path = GGDevice
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGDevice.git
