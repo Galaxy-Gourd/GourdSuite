@@ -1,3 +1,6 @@
 [submodule "GGDataBase"]
 	path = GGDataBase
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGDataBase.git
+[submodule "GGDataUnity"]
+	path = GGDataUnity
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGDataUnity.git
