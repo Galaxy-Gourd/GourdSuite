@@ -22,3 +22,6 @@
 [submodule "GGDevice"]
 	path = GGDevice
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGDevice.git
+[submodule "GGUI"]
+	path = GGUI
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGUI.git
