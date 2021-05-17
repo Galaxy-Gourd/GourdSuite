@@ -1,0 +1,15 @@
+{
+  "name": "com.galaxygourd.gourdsuite",
+  "version": "1.0.0",
+  "displayName": "Gourd Suite",
+  "description": "Complete Galaxy Gourd package suite for development with Unity3D.",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.galaxygourd.ggdatabase": "https://github.com/Galaxy-Gourd/GGDataBase.git",
+    "com.galaxygourd.ggdataunity": "https://github.com/Galaxy-Gourd/GGDataUnity.git"
+  },
+  "author": {
+    "name": "Galaxy Gourd",
+    "email": "mstephens.dev@gmail.com" 
+  }
+}
