@@ -7,3 +7,9 @@
 [submodule "GGLoad"]
 	path = GGLoad
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGLoad.git
+[submodule "GGTickBase"]
+	path = GGTickBase
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGTickBase.git
+[submodule "GGTickUnity"]
+	path = GGTickUnity
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGTickUnity.git
