@@ -28,3 +28,6 @@
 [submodule "GGTestSceneRunner"]
 	path = GGTestSceneRunner
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGTestSceneRunner.git
+[submodule "GGUIComponents"]
+	path = GGUIComponents
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGUIComponents.git
