@@ -31,3 +31,18 @@
 [submodule "GGUIComponents"]
 	path = GGUIComponents
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGUIComponents.git
+[submodule "GGConsoleBase"]
+	path = GGConsoleBase
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGConsoleBase.git
+[submodule "GGConsoleUnity"]
+	path = GGConsoleUnity
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGConsoleUnity.git
+[submodule "GGInput"]
+	path = GGInput
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGInput.git
+[submodule "GGPhysics"]
+	path = GGPhysics
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGPhysics.git
+[submodule "GGInterpolation"]
+	path = GGInterpolation
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGInterpolation.git
