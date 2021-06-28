@@ -46,3 +46,6 @@
 [submodule "GGInterpolation"]
 	path = GGInterpolation
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGInterpolation.git
+[submodule "GGUpdate"]
+	path = GGUpdate
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGUpdate.git
