@@ -52,3 +52,6 @@
 [submodule "GGDirectory"]
 	path = GGDirectory
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGDirectory.git
+[submodule "GGDataUnity"]
+	path = GGDataUnity
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGDataUnity.git
