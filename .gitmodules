@@ -1,9 +1,6 @@
 [submodule "GGDataBase"]
 	path = GGDataBase
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGDataBase.git
-[submodule "GGDataUnity"]
-	path = GGDataUnity
-	url = https://mjstephens@github.com/Galaxy-Gourd/GGDataUnity.git
 [submodule "GGLoad"]
 	path = GGLoad
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGLoad.git
@@ -49,3 +46,9 @@
 [submodule "GGUpdate"]
 	path = GGUpdate
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGUpdate.git
+[submodule "GGLog"]
+	path = GGLog
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGLog.git
+[submodule "GGDirectory"]
+	path = GGDirectory
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGDirectory.git
