@@ -64,3 +64,6 @@
 [submodule "GGLocalization"]
 	path = GGLocalization
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGLocalization.git
+[submodule "GGCamera"]
+	path = GGCamera
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGCamera.git
