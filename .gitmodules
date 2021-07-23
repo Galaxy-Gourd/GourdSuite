@@ -67,3 +67,6 @@
 [submodule "GGCamera"]
 	path = GGCamera
 	url = https://mjstephens@github.com/Galaxy-Gourd/GGCamera.git
+[submodule "GGScene"]
+	path = GGScene
+	url = https://mjstephens@github.com/Galaxy-Gourd/GGScene.git
